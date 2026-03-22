@@ -1,0 +1,5 @@
+{
+  "name": "Dr. Neyyan's Dental Clinic",
+  "description": "Advanced Dental Care and Implant Center in Vasai East. Quality dental treatment with 4.8★ rating.",
+  "requestFramePermissions": ["geolocation"]
+}
